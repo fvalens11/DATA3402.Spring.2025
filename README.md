@@ -1,6 +1,6 @@
 # Horse Health Prediction Challenge
 
-*BY Frank Valenzuela:
+By Frank Valenzuela:
 This ReadMe file displays the efforts I went through to try and solve the Horse Health Prediction Challenge. 
 
 ## Overview
@@ -11,7 +11,7 @@ This ReadMe file displays the efforts I went through to try and solve the Horse 
 
 ### Data
 
-* Data:
+
  * Type: 3 CSV Files
     * Input: CSV file (Test), CSV file (Train), CSV file (Sample_Submission)
     * Input: 29 features ranging from 'id', 'age', 'temperature of body features', 'pulse', and other medical indicators. 
@@ -69,10 +69,6 @@ This ReadMe file displays the efforts I went through to try and solve the Horse 
 *Download csv files from Kaggle Challenge website
 (Refer to "Data", "Training" and "Project Evaluation" subheadings for exact instructions/explanations)
 
-
-
-
-
 ### Overview of files in repository
 
 * 2 notebooks:
@@ -97,7 +93,6 @@ from sklearn.metrics import f1_score
 * I One-Hot Encoded the following features: (surgery,temp_of_extremities,peripheral_pulse,capillary_refill_time,pain,peristalsis,abdominal_distention,nasogastric_tube,nasogastric_reflux,rectal_exam_feces,abdomen,abdomo_appearance,surgical_lesion,cp_data,lesion_2, lesion_3,and outcome)
 * I dropped features (hospital_number, and lesion_1) & ('id' only for model training, needed it for result)
 * I standardized the following numerical features: (pulse, rectal_temp, respiratory_rate, nasogastric_reflux_ph, packed_cell_volume, total_protein,and abdomo_protein)
-
 
 ### Training
 
