@@ -65,13 +65,15 @@ This ReadMe file displays the efforts I went through to try and solve the Horse 
 
 ## How to reproduce results
 
+*Download and import into Python Notebook (Numpy, Pandas, Matplotlib, and Scikit-learn)
+*Download csv files from Kaggle Challenge website
+(Refer to "Data", "Training" and "Project Evaluation" subheadings for exact instructions/explanations)
 
 
 
 
 
 ### Overview of files in repository
-
 
 * 2 notebooks:
 * Readable Final: A notebook that is readable and easily understandable
