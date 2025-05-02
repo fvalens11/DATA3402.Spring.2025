@@ -23,7 +23,7 @@ This ReadMe file displays the efforts I went through to try and solve the Horse 
 
 ![image](https://github.com/user-attachments/assets/bf94ad45-f120-4761-a3d8-80d8e1473b25)
 
-*There wasn't many numerical features to begin with but these 2 show the Test and Train to be about the same. 
+*There were not many numerical features to begin with but these 2 show the Test and Train to be about the same. 
 
 #### Preprocessing / Clean up
 
@@ -43,20 +43,21 @@ This ReadMe file displays the efforts I went through to try and solve the Horse 
 
 * The training featured a split of the Train dataset across X_train and Y_train and a test from X_Test within Scikit-Learn's Random Forest Classifier Model.
 * For this model I used 100 classifiers and a random state of 42.
-* I retrained several times either adding in a weight on correctly classifying living horses, or eliminating the outcome 'euthanized'
+* I then tried the model again but changed it by adding on a 2x weight for correctly classifying horses who will live
+* I then tried the model again but changed it so that the outcomes 'died' and 'euthanized' were merged together into the outcome 'died' (Just 2 outcomes: lived/died)
 
 
 ### Performance Comparison
 
 * With each new thing I tried my F1 score continued to increase.
-* I concluded at my score of 43% as I felt that there was nothing else within this model style
+* I came to the conclusion that my model that scored 43% was the best I was going to achieve with the Random Forest Classifier
 
 ![image](https://github.com/user-attachments/assets/ee5fb6ce-3eae-4e69-84cf-e5be4ff5e3ba)
 
 
 ### Conclusions
 
-* I achieved my best result after adding in a weight classifier to 'lived' and after merging the outcomes 'euthanized' and 'died'
+* I achieved my best result after adding in a weight classifier to the outcome 'lived' and after merging the outcomes of 'euthanized' and 'died' into a single outcome 'died'
 
 ### Future Work
 
