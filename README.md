@@ -27,7 +27,7 @@ This ReadMe file displays the efforts I went through to try and solve the Horse 
 
 
 
-*There were not many numerical features to begin with but these 2 show an example of a good feature and a bad feature. I dropped the second feature before training my model.
+There were not many numerical features to begin with but these 2 show an example of a good feature and a bad feature. I dropped the second feature before training my model.
 
 #### Preprocessing / Clean up
 
