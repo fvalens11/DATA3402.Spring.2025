@@ -21,9 +21,10 @@ This ReadMe file displays the efforts I went through to try and solve the Horse 
 #### Data Visualization
 
 
-![image](https://github.com/user-attachments/assets/bf94ad45-f120-4761-a3d8-80d8e1473b25)
+![image](https://github.com/user-attachments/assets/78d027d7-21a0-4db3-b31f-6e7de662cffd)
 
-*There were not many numerical features to begin with but these 2 show the Test and Train to be about the same. 
+
+*There were not many numerical features to begin with but these 2 show an example of a good feature and a bad feature. I dropped the second feature before training my model.
 
 #### Preprocessing / Clean up
 
