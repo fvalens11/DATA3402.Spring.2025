@@ -56,7 +56,8 @@ There were not many numerical features to begin with but these 2 show an example
 * With each new thing I tried my F1 score continued to increase.
 * I came to the conclusion that my model that scored 43% was the best I was going to achieve with the Random Forest Classifier
 
-![image](https://github.com/user-attachments/assets/26b9fcbb-4638-44e5-9e06-5b55fa73413e)
+![image](https://github.com/user-attachments/assets/09056087-1e99-4358-883a-7ecc28bbe078)
+
 
 
 
