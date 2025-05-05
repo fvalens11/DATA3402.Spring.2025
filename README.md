@@ -21,7 +21,8 @@ This ReadMe file displays the efforts I went through to try and solve the Horse 
 #### Data Visualization
 
 
-![image](https://github.com/user-attachments/assets/78d027d7-21a0-4db3-b31f-6e7de662cffd)
+![image](https://github.com/user-attachments/assets/af575ee1-b639-4958-828d-8a50c592bbb2)
+
 
 
 *There were not many numerical features to begin with but these 2 show an example of a good feature and a bad feature. I dropped the second feature before training my model.
