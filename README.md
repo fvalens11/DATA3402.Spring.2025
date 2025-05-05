@@ -22,6 +22,8 @@ This ReadMe file displays the efforts I went through to try and solve the Horse 
 
 
 ![image](https://github.com/user-attachments/assets/af575ee1-b639-4958-828d-8a50c592bbb2)
+![image](https://github.com/user-attachments/assets/c906f413-d7e3-40ee-93a6-b70ed0b73f6b)
+
 
 
 
